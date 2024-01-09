@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/orange_gradiant"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/imgheader"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/exposys_logo"
+        app:shapeAppearanceOverlay="@style/Circular"
+        android:layout_margin="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exposys \nData Labs \nInternship App"
+        android:textSize="22sp"
+        android:textColor="@color/black"
+        android:layout_toRightOf="@+id/imgheader"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textStyle="bold|italic"
+        android:layout_gravity="center_horizontal"
+        />
+
+</RelativeLayout>

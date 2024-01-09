@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dashboard"
+            android:title="@string/dashboard"/>
+        <item
+            android:id="@+id/dataScience"
+            android:title="@string/data_science"/>
+        <item
+            android:id="@+id/webDev"
+            android:title="@string/web_development"/>
+        <item
+            android:id="@+id/fullStack"
+            android:title="@string/full_stack_developer"/>
+        <item
+            android:id="@+id/appDev"
+            android:title="@string/app_developer"/>
+        <item
+            android:id="@+id/softwareDev"
+            android:title="@string/software_developer"/>
+        <item
+            android:id="@+id/iot"
+            android:title="@string/iot"/>
+        <item
+            android:id="@+id/uiux"
+            android:title="@string/ui_ux_design"/>
+        <item
+            android:id="@+id/cyber"
+            android:title="@string/cyber_security"/>
+        <item
+            android:id="@+id/digital"
+            android:title="@string/digital_marketing"/>
+        <item
+            android:id="@+id/contentWriting"
+            android:title="@string/content_writing"/>
+        <item
+            android:id="@+id/digitalmedia"
+            android:title="@string/digital_media_promotor"/>
+        <item
+            android:id="@+id/businessDev"
+            android:title="@string/business_development_associate"/>
+
+        <item
+            android:id="@+id/logout"
+            android:title="@string/log_out"/>
+
+    </group>
+
+</menu>

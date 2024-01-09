@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748839620926",
+    "project_id": "exposysvirtualintern",
+    "storage_bucket": "exposysvirtualintern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748839620926:android:e52dd7d7ca45b6600bdc6f",
+        "android_client_info": {
+          "package_name": "com.manish.exposys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvoavEZ5dwZctiQCdChBBaulycprtsD0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

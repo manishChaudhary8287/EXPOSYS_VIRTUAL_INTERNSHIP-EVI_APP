@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EXPOSYS VIRTUAL INTERNSHIP-EVI APP</string>
+    <string name="data_science">DATA SCIENCE</string>
+    <string name="web_development">WEB DEVELOPMENT</string>
+    <string name="full_stack_developer">FULL STACK DEVELOPER</string>
+    <string name="app_developer">APP DEVELOPER</string>
+    <string name="software_developer">SOFTWARE DEVELOPER</string>
+    <string name="iot">IOT</string>
+    <string name="ui_ux_design">UI/UX DESIGN</string>
+    <string name="cyber_security">CYBER SECURITY</string>
+    <string name="digital_marketing">DIGITAL MARKETING</string>
+    <string name="content_writing">CONTENT WRITING</string>
+    <string name="digital_media_promotor">DIGITAL MEDIA PROMOTOR</string>
+    <string name="business_development_associate">BUSINESS DEVELOPMENT ASSOCIATE</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="hello_blank_fragment">blank fragment</string>
+    <string name="log_out">Log Out</string>
+</resources>
