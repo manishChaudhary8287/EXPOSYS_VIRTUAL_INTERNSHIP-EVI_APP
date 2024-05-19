@@ -18,7 +18,6 @@ class LoginActivity : AppCompatActivity() {
     lateinit var sp:SharedPreferences
     lateinit var etemail:EditText
     lateinit var etpass:EditText
-
     lateinit var auth:FirebaseAuth
 
     override fun onCreate(savedInstanceState: Bundle?) {
